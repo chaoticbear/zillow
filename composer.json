@@ -1,9 +1,9 @@
 {
-    "name": "yajra/zillow",
+    "name": "chaoticbear/zillow",
     "type": "application",
     "description": "Zillow PHP API Wrapper",
     "keywords": ["laravel", "zillow", "php", "api"],
-    "homepage": "https://github.com/yajra/zillow",
+    "homepage": "https://github.com/chaoticbear/zillow",
     "license": "MIT",
     "authors": [
         {
@@ -12,7 +12,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/yajra/zillow/issues"
+        "issues": "https://github.com/chaoticbear/zillow/issues"
     },
     "require": {
         "php": ">=5.4.0",
@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-0": {
-            "yajra\\Zillow": "src/"
+            "chaoticbear\\Zillow": "src/"
         }
     },
     "minimum-stability": "stable"
